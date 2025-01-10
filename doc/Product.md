@@ -16,7 +16,7 @@ Com principal ajuda à navegação para o utilizador, a barra lateral inclui lin
 Na área do Destino Pecador, foram utilizados botões interativos que, ao serem clicados, revelam um texto específico sobre o assunto desejado. Esses botões foram posicionados para facilitar a navegação e proporcionar uma experiência mais dinâmica para o utilizador. Além de transmitir informações de maneira direta e clara.
 
 ## Validação do formulário
-A validação do formulário presente no arquivo **contato.html** é realizada por meio da integração com o Google Forms. Sendo assim, os dados inseridos pelos usuários no formulário são automaticamente validados e processados pelos mecanismos de validação embutidos do Google Forms.
+A validação do formulário presente no arquivo **contato.html** é realizada por meio de uma integração com o Google Forms. Sendo assim, os dados inseridos pelos utilizadores no formulário são automaticamente validados pelos mecanismos de validação embutidos do Google Forms.
 ## Validação XML e HTML
 O código pode ser validado em ferramentas como o W3C HTML Validator e W3C CSS Validator.
 
