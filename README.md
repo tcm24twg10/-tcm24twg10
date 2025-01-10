@@ -3,6 +3,7 @@
 Repositorio para hospedar o projeto desenvolvido para Tecnologias Web, cadeira de segundo ano da Universidade da Maia. Desenvolvido por: [@A044887](https://github.com/A044887),[@A045955](https://github.com/A045955), [@a044499MarcelaAlmeida](https://github.com/a044499MarcelaAlmeida)
 
 ## Pequena Descrição
+O trabalho consiste na criação de um website de uma Agência de Viagens que explora os 7 Pecados Mortais como destinos turisticos onde as pessoas podem usufruir das disferentes ofertas.
 
 
 ## Repository organization
