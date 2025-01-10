@@ -1,6 +1,6 @@
 # Os 7 Pecados em Viagens
 
-Repositorio para hospedar o projeto desenvolvido para Tecnologias Web, cadeira de segundo ano da Universidade da Maia. Desenvolvido por: [@A044887] (https://github.com/A044887)),[@A045955] (https://github.com/A045955), [@a044499MarcelaAlmeida] (https://github.com/a044499MarcelaAlmeida)
+Repositorio para hospedar o projeto desenvolvido para Tecnologias Web, cadeira de segundo ano da Universidade da Maia. Desenvolvido por: [@A044887](https://github.com/A044887),[@A045955](https://github.com/A045955), [@a044499MarcelaAlmeida](https://github.com/a044499MarcelaAlmeida)
 
 ## Pequena Descrição
 
