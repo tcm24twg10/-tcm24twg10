@@ -1,10 +1,9 @@
-#Os 7 Pecados em Viagens
+# Os 7 Pecados em Viagens
 
-Repositorio para hospedar o projeto desenvolvido para Tecnologias Web, cadeira de segundo ano da Universidade da Maia. Desenvolvido por: [@A044887@MarcoOliveira](https://github.com/marcoamarooliveira), [add others].
+Repositorio para hospedar o projeto desenvolvido para Tecnologias Web, cadeira de segundo ano da Universidade da Maia. Desenvolvido por: [@A044887] (https://github.com/A044887)),[@A045955] (https://github.com/A045955), [@a044499MarcelaAlmeida] (https://github.com/a044499MarcelaAlmeida)
 
-## Short theme description
+## Pequena Descrição
 
-An example report using markdown on Github. This documentation is writen using [Markdown](https://www.markdownguide.org/). Here is a [link to the basic syntax](https://www.markdownguide.org/basic-syntax), but an [extended syntax](https://www.markdownguide.org/extended-syntax/) is also available. If you're starting with Markdown, you may want to try a [Markdown Tutorial](https://www.markdowntutorial.com/) and read the [getting started](https://www.markdownguide.org/getting-started/) section.
 
 ## Repository organization
 
