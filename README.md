@@ -24,19 +24,18 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 * HTML5 + CSS3
 * Javascript
 
-## Report
-_Please add at least on section (a file) per Chapter. But you can add more._
+## Relatório
 
-### Project presentation
-* Chapter 1: [Project presentation](Apresentação.md)
+### Apresentação do Projeto
+* Capítulo 1: [Apresentação do Projeto](Apresentação.md)
 ### User Interface 
-* Chapter 2: [User Interface Prototype and Sitemap](doc/c2.md)
-### Product
-* Chapter 3: [Product](doc/c3.md)
-### Presentation
-* Chapter 4: [Presentation](doc/c4.md)
+* Capítulo 2: [User Interface Prototype and Sitemap](doc/c2.md)
+### Produto
+* Capítulo 3: [Product](doc/c3.md)
+### Apresentação
+* Capítulo 4: [Presentation](doc/c4.md)
 
-## Team
+## Grupo
 * Catarina Pinto Moutinho [@A044887](https://github.com/A044887)
 * Francisca Sofia Abreu Da Silva [@A045955](https://github.com/A045955)
 * Marcela Silva Almeida [@a044499MarcelaAlmeida](https://github.com/a044499MarcelaAlmeida)
