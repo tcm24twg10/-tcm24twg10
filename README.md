@@ -6,11 +6,11 @@ Repositorio para hospedar o projeto desenvolvido para Tecnologias Web, cadeira d
 O trabalho consiste na criação de um website de uma Agência de Viagens que explora os 7 Pecados Mortais como destinos turisticos onde as pessoas podem usufruir das disferentes ofertas.
 
 
-## Repository organization
+//## Repository organization
 
-_Please help reader navigate around describing how the repository is organized by providing links_
-* **Source code** is in the [src folder](src/).
-* Report chapters are in [doc folder](doc/).
+//_Please help reader navigate around describing how the repository is organized by providing links_
+//* **Source code** is in the [src folder](src/).
+//* Report chapters are in [doc folder](doc/).
 
 ## Gallery
 
