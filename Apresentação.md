@@ -1,7 +1,7 @@
 # Apresentação: Os 7 Pecados em Viagens 
 
 ## Descrição
-
+Este projeto foi desenvolvido como parte de uma atividade acadêmica proposta pelo docente, com o objetivo de criar um site para uma agência de viagens. O foco principal é apresentar os serviços da agência, destinos populares, informações de contato e tabela de preços pela temática dos 7 pecados capitais, no qual cada cliente escolheria o serviço que mais vos agrada pelas suas maiores vontades. A atividade visa aplicar conceitos de HTML, CSS e JavaScript para criar um site responsivo, e integrar XML e XSD para armazenar os dados deste site.
 
 
 ## Grupo 10
@@ -13,6 +13,7 @@
 
 
 ---
+
 
 < Antes | [^ Principal](../../../) | [A seguir >]()
 :--- | :---: | ---: 
