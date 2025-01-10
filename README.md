@@ -28,7 +28,7 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 _Please add at least on section (a file) per Chapter. But you can add more._
 
 ### Project presentation
-* Chapter 1: [Project presentation](apresentação.md)
+* Chapter 1: [Project presentation](Apresentação.md)
 ### User Interface 
 * Chapter 2: [User Interface Prototype and Sitemap](doc/c2.md)
 ### Product
