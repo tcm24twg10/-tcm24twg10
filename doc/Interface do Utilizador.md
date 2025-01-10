@@ -12,7 +12,7 @@ Sketch inicial com foco nos aspectos fundamentais do projeto. Elementos supérfl
 ### Wireframes
 | | |
 :---: | :---:
-![An alternative description](images/image03.jpg) 
+![An alternative description](images/image04.ppg) 
 
 Decidimos usar o sketch novo e criamos o wireframe baseado nele. Após a definição do Wireframe, iniciamos o projeto com a criação de um sitemap. Essa decisão serve como uma representação organizada das páginas ou seções do projeto, permitindo uma visão clara da estrutura do conteúdo e das interações esperadas pelo utilizador durante a jornada pelo site em sua estrutura oficial. Desta forma, estruturamos o sitemap da seguinte forma.
 
