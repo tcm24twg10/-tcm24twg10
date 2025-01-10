@@ -1,4 +1,7 @@
 # Product
+
+## Descrição
+O produto é um site chamado "Os 7 Pecados Capitais", que é um portal relacionado a viagens ou experiências com este tema, com imagens, informações de contato e preços temáticos para experiência unica do usuário.
 ## Instruções de Instalação e Configuração
 Para utilizar o site, é preciso ter navegadores modernos que tenham suporte para HTML5, CSS3 e Javascript. Tendo isto em mente, para executar o site pode ser feito de diversas formas, a primeira delas seria extraindo o conteúdo em zip e abrindo o arquivo index.html, depois disto, pode ser feito a utilização do site pelo github, ao instalar os arquivos separados na pasta. Outra forma seria acessando a própria hospedagem do site no Netlify.
 ## Configurações
