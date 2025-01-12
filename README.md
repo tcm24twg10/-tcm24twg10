@@ -1,17 +1,17 @@
 # Os 7 Pecados em Viagens
 
-Repositorio para hospedar o projeto desenvolvido para Tecnologias Web, cadeira de segundo ano da Universidade da Maia. Desenvolvido por: [@A044887](https://github.com/A044887),[@A045955](https://github.com/A045955), [@a044499MarcelaAlmeida](https://github.com/a044499MarcelaAlmeida)
+Repositório para hospedar o projeto desenvolvido para Tecnologias Web, cadeira de segundo ano da Universidade da Maia. Desenvolvido por: [@A044887](https://github.com/A044887),[@A045955](https://github.com/A045955), [@a044499MarcelaAlmeida](https://github.com/a044499MarcelaAlmeida)
 
 ## Pequena Descrição
-O trabalho consiste na criação de um website de uma Agência de Viagens que explora os 7 Pecados Mortais como destinos turisticos onde as pessoas podem usufruir das disferentes ofertas.
+O trabalho consiste na criação de um website para uma Agência de Viagens que explora os 7 Pecados Capitais como destinos turísticos onde as pessoas podem usufruir das disferentes ofertas. Funciona como um website meramente informativo pois todas as reservas seriam realizadas presencialmente na agência.
 
 
-## Repository organization
+## Organização do Repositório
 
 * O **código** está em [Pasta src](src/).
 * Os capítulos do **relatório** estão em [Pasta doc](doc/).
 
-## Gallery
+## Galeria
 
 |                                     |               Imagens               |                                     |
 |-------------------------------------|-------------------------------------|-------------------------------------|
@@ -21,6 +21,7 @@ O trabalho consiste na criação de um website de uma Agência de Viagens que ex
 | ![IMAGEM](doc/Imagens/imagem17.png) | ![IMAGEM](doc/Imagens/imagem11.png) | ![IMAGEM](doc/Imagens/imagem05.png) |
 | ![IMAGEM](doc/Imagens/imagem16.png) | ![IMAGEM](doc/Imagens/imagem10.png) | ![IMAGEM](doc/Imagens/imagem04.png) |
 | ![IMAGEM](doc/Imagens/imagem15.png) | ![IMAGEM](doc/Imagens/imagem09.png) | ![IMAGEM](doc/Imagens/imagem03.png) |
+
 ## Tecnologias Utilizadas 
 
 * XML
