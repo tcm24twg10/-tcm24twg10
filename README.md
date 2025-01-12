@@ -14,14 +14,14 @@ _Please help reader navigate around describing how the repository is organized b
 
 ## Gallery
 
-| Imagens                  |                        |                        |
-|--------------------------|------------------------|------------------------|
-| ![IMAGEM](doc/Imagens/imagem20.png)| (Imagens/imagem14.png) | (Imagens/imagem08.png) |
-| (Imagens/imagem19.png)   | (Imagens/imagem13.png) | (Imagens/imagem07.png) |
-| (Imagens/imagem18.png)   | (Imagens/imagem12.png) | (Imagens/imagem06.png) |
-| (Imagens/imagem17.png)   | (Imagens/imagem11.png) | (Imagens/imagem05.png) |
-| (Imagens/imagem16.png)   | (Imagens/imagem10.png) | (Imagens/imagem04.png) |
-| (Imagens/imagem15.png)   | (Imagens/imagem09.png) | (Imagens/imagem03.png) |
+|                                                     Imagens                                                     |
+|-------------------------------------|-------------------------------------|-------------------------------------|
+| ![IMAGEM](doc/Imagens/imagem20.png) | ![IMAGEM](doc/Imagens/imagem14.png) | ![IMAGEM](doc/Imagens/imagem08.png) |
+| ![IMAGEM](doc/Imagens/imagem19.png) | ![IMAGEM](doc/Imagens/imagem13.png) | ![IMAGEM](doc/Imagens/imagem07.png) |
+| ![IMAGEM](doc/Imagens/imagem18.png) | ![IMAGEM](doc/Imagens/imagem12.png) | ![IMAGEM](doc/Imagens/imagem06.png) |
+| ![IMAGEM](doc/Imagens/imagem17.png) | ![IMAGEM](doc/Imagens/imagem11.png) | ![IMAGEM](doc/Imagens/imagem05.png) |
+| ![IMAGEM](doc/Imagens/imagem16.png) | ![IMAGEM](doc/Imagens/imagem10.png) | ![IMAGEM](doc/Imagens/imagem04.png) |
+| ![IMAGEM](doc/Imagens/imagem15.png) | ![IMAGEM](doc/Imagens/imagem09.png) | ![IMAGEM](doc/Imagens/imagem03.png) |
 ## Tecnologias Utilizadas 
 
 * XML
