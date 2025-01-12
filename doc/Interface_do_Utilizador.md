@@ -7,23 +7,13 @@ No primeiro passo, fizemos um sketch desenhado no bloco de notas para possuir um
 | | |
 :---: | :---:
  | 
-
+![An alternative description](images/image02.png) | ![An alternative description](images/image06.png)
+Esta página inicial inclui um menu principal fixo na parte superior com as opções de navegação: Home, Combos, Destinos, Contacto e um botão adicional “Explora”. No centro da página, destaca-se a mensagem principal: “Explora os 7 Pecados!”, acompanhada de uma área dedicada para um vídeo ou elemento interativo, como um botão de ação. |  Menu superior atualizado, agora incluindo as secções “Preços”, “Fotos” e “Sobre”.
+A mensagem principal “Explora os Sete Pecados” aparece novamente com botões de interação  para facilitar a navegação.
+Adição de uma secção informativa ou de aviso na parte inferior.
 ### Wireframes
 ![An alternative description]
 
 Decidimos usar o sketch novo e criamos o wireframe baseado nele. Após a definição do Wireframe, iniciamos o projeto com a criação de um sitemap. Essa decisão serve como uma representação organizada das páginas ou seções do projeto, permitindo uma visão clara da estrutura do conteúdo e das interações esperadas pelo utilizador durante a jornada pelo site em sua estrutura oficial. Desta forma, estruturamos o sitemap da seguinte forma.
-
-
-|-------------------------------------------|-----------------------------------------|
-|![opção1](Imagens/imagem01.png)            | ![opção2](Imagens/imagem02.png)         |
-|Esta página inicial inclui um menu         |Menu superior atualizado, agora incluindo| 
-|principal fixo na parte superior com       |as secções “Preços”, “Fotos” e “Sobre”.  |
-|as opções de navegação: Home, Combos,      |A mensagem principal “Explora os Sete    |
-|Destinos, Contacto e um botão adicional    |Pecados” aparece novamente com botões de |
-|“Explora”. No centro da página, destaca-se |interação para facilitar a navegação.    |
-|a mensagem principal:                      |Adição de uma secção informativa ou de   |
-|“Explora os 7 Pecados!”, acompanhada de uma|aviso na parte inferior.                 |
-|área dedicada para um vídeo ou elemento    |                                         |
-|interativo, como um botão de ação.         |                                         |
 
 
