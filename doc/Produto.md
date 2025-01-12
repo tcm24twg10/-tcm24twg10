@@ -1,25 +1,30 @@
-# Product
+# Produto
 
 ## Descrição
-O produto é um site chamado "Os 7 Pecados Capitais", que é um portal relacionado a viagens ou experiências com este tema, com imagens, informações de contato e preços temáticos para experiência unica do usuário.
+O produto é um site chamado "Os 7 Pecados Capitais", que explora os sete pecados capitais como tema central para a criação de itenerários de viagens personalizadas. Tem páginas de destinos, preços, galeria, a equipa e contactos. Temos presentes formulários, imagens, informações de contato e preços temáticos para a experiência unica do utilizador.
+
 ## Instruções de Instalação e Configuração
 Para utilizar o site, é preciso ter navegadores modernos que tenham suporte para HTML5, CSS3 e Javascript. Tendo isto em mente, para executar o site pode ser feito de diversas formas, a primeira delas seria extraindo o conteúdo em zip e abrindo o arquivo index.html, depois disto, pode ser feito a utilização do site pelo github, ao instalar os arquivos separados na pasta. Outra forma seria acessando a própria hospedagem do site no Netlify.
+
 ## Configurações
-Caso deseje alterar as imagens, substitua os arquivos na pasta fotos mantendo os mesmos nomes dos arquivos para não corromper o código inicial. Altere as cores e fontes personalizando o arquivo style.css, mas para adicionar uma fonte nova, é preciso alterar o href com o código da fonte desejada.
+Caso deseje alterar as imagens, substitua os arquivos na pasta fotos mantendo os mesmos nomes dos arquivos para não corromper o código inicial. Altere as cores e fontes personalizando o arquivo style.css.
 
 ## Regras de Utilização
-As limitações presentes no site são a sensação de ser somente informativo e não incluir funcionalidades de autenticação ou reserva automaticamente pelo site. Para conseguir sua viagem desejada, é preciso entrar em contato com a agência diretamente, o que pode afastar clientes que não gostem desta forma de abordagem.
-Na navegação o botão da tribar permite a alternância entre mostrar e ocultar a barra lateral, para permitir a navegação mais fluida para o utilizador, permitindo que nada tampe seu campo de visão. O site pode haver limitações em navegadores antigos, mas funciona perfeitamente em Chrome, Firefox e Edge.
+As limitações do website incluem a sua natureza predominantemente informativa, sem funcionalidades que permitam autenticação ou a realização de reservas diretamente na plataforma. Para organizar a viagem desejada, o utilizador tem de entrar em contacto diretamente com a agência, e marcar uma hora no seu espaço presencialmente, o que pode desmotivar clientes que prefiram uma abordagem mais automatizada. Além disso, o formulário de contacto não está ligado a uma base de dados funcional, o que impossibilita o envio de mensagens através dessa ferramenta.
+Outra limitação é a compatibilidade com navegadores mais antigos, embora o site funcione perfeitamente nos navegadores modernos, como o Chrome, Firefox e Edge. Por fim, o design foi concebido exclusivamente para dispositivos com ecrãs maiores, como computadores e tablets, o que pode prejudicar a experiência de utilizadores que tentem aceder ao site através de smartphones.
 
 ## Ajuda à Navegação
 Com principal ajuda à navegação para o utilizador, a barra lateral inclui links para as páginas principais do projeto: Contato, Destino, Preçário e Home. O botão no topo ajuda a barra lateral a expandir e diminuir. Não possuindo tooltips.
 Na área do Destino Pecador, foram utilizados botões interativos que, ao serem clicados, revelam um texto específico sobre o assunto desejado. Esses botões foram posicionados para facilitar a navegação e proporcionar uma experiência mais dinâmica para o utilizador. Além de transmitir informações de maneira direta e clara.
 
 ## Validação do formulário
-A validação do formulário presente no arquivo **contato.html** é realizada por meio de uma integração com o Google Forms. Sendo assim, os dados inseridos pelos utilizadores no formulário são automaticamente validados pelos mecanismos de validação embutidos do Google Forms.
+O formulário presente na página **Contacto** não realiza validação, uma vez que seria necessário configurar uma base de dados para armazenar e processar as informações submetidas pelos utilizadores. Contudo, o grupo não possui, atualmente, os conhecimentos técnicos necessários para implementar essa funcionalidade. 
+Como resultado, o formulário é meramente ilustrativo, sem qualquer funcionalidade prática de envio ou armazenamento de dados.
+
 ## Validação XML e HTML
-O código pode ser validado em ferramentas como o W3C HTML Validator e W3C CSS Validator.
+O código foi validado em ferramentas como o **W3C HTML Validator**, o **W3C CSS Validator** e também em validadores de **XML** e **XSD**. DUrante o processo, foram identificados alguns erros e avisos, que foram devidamente corrigidos para garantir a conformidade com os padrões da web e da estrturação de dados.
 
 ## Detalhes de Implementação
-O projeto tem como objetivo a criação de um layout responsivo, desenvolvido utilizando as tecnologias HTML5, CSS3 e Javascript, garantindo que a interface funcione. Para tornar a experiência mais interativa, foi implementado o uso de JavaScript em funcionalidades como a barra lateral, a troca dinâmica de imagens e o envio do formulário.
-Além disso, foram incorporados detalhes para o design, como o uso de fontes personalizadas da Google Fonts, como a fonte “Labrada". As imagens utilizadas estão organizadas em uma pasta específica chamada "fotos", o que facilita a gestão dos arquivos. O esquema de cores foi pensado em ser minimalista, alinhado com cores extremamente parecidas e fossem similares com o conceito dos 7 pecados capitais. Tudo foi cuidadosamente escolhido para proporcionar uma experiência visual agradável e intuitiva para o usuário.
+O projeto tem como objetivo a criação de um layout versátil, desenvolvido utilizando as tecnologias **HTML5**, **CSS3** e **JavaScript**, garantindo que a interface seja funcional e acessível. Para tornar a experiência mais interativa, foi implementado o uso de JavaScript em funconalidades como a página de **Destinos**, onde, ao clicar numa imagem, surge um pop-up com os preços das vaigens. Além disso, foram adicionados os **Combos Pecaminosos**, organizados em formato **XML**, que contribuem para a organização dos dados e para a flexibilidade na sua atualização.
+A tipografia utiizada foi a **Times New Roman**, que confere um estilo clássico e elegante. Foi também utilizada uma biblioteca de ícones, como já referido anteriormente. As imagens encontram-se organizadas numa pasta específica denominada "fotos", permitindo uma gestão eficiente e facilitando eventuais alterações ou substituições.
+O esquema de cores foi pensado de forma simbólica e intencional, o **vermelho**, como cor predominante, representa a transgressão associada aos **7 Pecados Capitais**. Para complementar, foram escolhidas cores harmoniosas e tonalidades próximas, que criam uma identidade visual coesa e alinhada com o conceito do projeto.
