@@ -34,7 +34,7 @@ _Please help reader navigate around describing how the repository is organized b
 ### Apresentação do Projeto
 * Capítulo 1: [Apresentação do Projeto](Apresentação.md)
 ### User Interface 
-* Capítulo 2: [User Interface Prototype and Sitemap](doc/c2.md)
+* Capítulo 2: [Interface do Utilizador](Interface do Utilizador.md)
 ### Produto
 * Capítulo 3: [Product](doc/c3.md)
 ### Apresentação
