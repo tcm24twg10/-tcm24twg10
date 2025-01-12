@@ -16,7 +16,7 @@ _Please help reader navigate around describing how the repository is organized b
 
 | Imagens                  |                        |                        |
 |--------------------------|------------------------|------------------------|
-| [Imagens]/(imagem20.png) | (Imagens/imagem14.png) | (Imagens/imagem08.png) |
+| ![Imagens]/(imagem20.png) | (Imagens/imagem14.png) | (Imagens/imagem08.png) |
 | (Imagens/imagem19.png)   | (Imagens/imagem13.png) | (Imagens/imagem07.png) |
 | (Imagens/imagem18.png)   | (Imagens/imagem12.png) | (Imagens/imagem06.png) |
 | (Imagens/imagem17.png)   | (Imagens/imagem11.png) | (Imagens/imagem05.png) |
