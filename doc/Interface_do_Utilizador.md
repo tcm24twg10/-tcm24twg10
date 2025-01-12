@@ -6,12 +6,24 @@ No primeiro passo, fizemos um sketch desenhado no bloco de notas para possuir um
 ## Sketchs
 | | |
 :---: | :---:
-![An alternative description](Imagens/imagem01.png) | ![An alternative description](Imagens/imagem02.png)
-Sketch inicial com foco nos aspectos fundamentais do projeto. Elementos supérfluos ou pouco necessários para o desenvolvimento estão presentes nessa versão inicial, com muitos elementos que desviam a atenção do utilizador. Por estes motivos mudamos o sketch para outro. |  Um Sketch novo que captura a atenção do utilizador de forma clara, intuitiva e atrativa. O design desta vez é mais focado na usabilidade e funcionalidade com elementos que possam facilitar a navegação. 
+ | 
 
 ### Wireframes
 ![An alternative description]
 
 Decidimos usar o sketch novo e criamos o wireframe baseado nele. Após a definição do Wireframe, iniciamos o projeto com a criação de um sitemap. Essa decisão serve como uma representação organizada das páginas ou seções do projeto, permitindo uma visão clara da estrutura do conteúdo e das interações esperadas pelo utilizador durante a jornada pelo site em sua estrutura oficial. Desta forma, estruturamos o sitemap da seguinte forma.
+
+
+|-------------------------------------------|-----------------------------------------|
+|![opção1](Imagens/imagem01.png)            | ![opção2](Imagens/imagem02.png)         |
+|Esta página inicial inclui um menu         |Menu superior atualizado, agora incluindo| 
+|principal fixo na parte superior com       |as secções “Preços”, “Fotos” e “Sobre”.  |
+|as opções de navegação: Home, Combos,      |A mensagem principal “Explora os Sete    |
+|Destinos, Contacto e um botão adicional    |Pecados” aparece novamente com botões de |
+|“Explora”. No centro da página, destaca-se |interação para facilitar a navegação.    |
+|a mensagem principal:                      |Adição de uma secção informativa ou de   |
+|“Explora os 7 Pecados!”, acompanhada de uma|aviso na parte inferior.                 |
+|área dedicada para um vídeo ou elemento    |                                         |
+|interativo, como um botão de ação.         |                                         |
 
 
