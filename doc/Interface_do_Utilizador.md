@@ -13,11 +13,11 @@ Esta página inicial inclui um menu principal fixo na parte superior com as opç
 
 ### Sitemap
 
-![Another description](images/image08.png)  
+![Another description](Imagens/imagem21.png) 
 O sitemap do website "Os 7 Pecados em Viagens" apresenta uma estrutura organizada e intuitiva. A página principal, Home, funciona como o ponto de partida e oferece links para todas as secções do site. A secção Pacotes (posteriormwnte chamada preçário) inclui opções de pacotes premium, uma tabela de preços e um botão de "Call to Action" (CTA) para contacto direto. Na área de Destinos, os locais estão divididos pelos sete pecados capitais: Gula, Luxúria, Avareza, Ira, Inveja, Preguiça e Vaidade, facilitando o acesso a cada temática. A Galeria é dedicada exclusivamente a fotos ilustrativas relacionadas aos destinos e pacotes. Na secção Sobre Nós, encontram-se informações institucionais sobre a equipa e a história da marca. Por fim, a página Contactos inclui um formulário de contacto e informações de localização, permitindo uma comunicação direta com a agência. Esta organização foi pensada para proporcionar uma navegação simples e eficiente, garantindo uma experiência agradável para o utilizador.
 
 ### Wireframes
-![An alternative description]
+![An alternative description](Imagens/imagem22.png) 
 
 Decidimos usar o sketch novo e criamos o wireframe baseado nele. Após a definição do Wireframe, iniciamos o projeto com a criação de um sitemap. Essa decisão serve como uma representação organizada das páginas ou seções do projeto, permitindo uma visão clara da estrutura do conteúdo e das interações esperadas pelo utilizador durante a jornada pelo site em sua estrutura oficial. Desta forma, estruturamos o sitemap da seguinte forma.
 
