@@ -14,9 +14,14 @@ _Please help reader navigate around describing how the repository is organized b
 
 ## Gallery
 
-_Please provide a galery of the final result, with small images_
-A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images.
-
+| Imagens                |                    |                    |
+|------------------------|--------------------|--------------------|
+| [Imagens/imagem03.png] |
+| [Imagens/imagem04.png] |
+| [Imagens/imagem05.png] |
+| [Imagens/imagem06.png] | 
+| [Imagens/imagem07.png] |
+| [Imagens/imagem08.png] |
 ## Tecnologias Utilizadas
 
 * XML
