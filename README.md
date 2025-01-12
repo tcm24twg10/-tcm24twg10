@@ -14,7 +14,7 @@ _Please help reader navigate around describing how the repository is organized b
 
 ## Gallery
 
-|                                                     Imagens                                                     |
+|                                     |               Imagens               |                                     |
 |-------------------------------------|-------------------------------------|-------------------------------------|
 | ![IMAGEM](doc/Imagens/imagem20.png) | ![IMAGEM](doc/Imagens/imagem14.png) | ![IMAGEM](doc/Imagens/imagem08.png) |
 | ![IMAGEM](doc/Imagens/imagem19.png) | ![IMAGEM](doc/Imagens/imagem13.png) | ![IMAGEM](doc/Imagens/imagem07.png) |
