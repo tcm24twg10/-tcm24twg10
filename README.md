@@ -32,14 +32,14 @@ _Please help reader navigate around describing how the repository is organized b
 ## Relatório
 
 ### Apresentação do Projeto
-* Capítulo 1: [Apresentação do Projeto](Apresentaçãodoprojeto.md)
+* Capítulo 1: [Apresentação do Projeto](doc/Apresentação_do_projeto.md)
 ### User Interface 
-* Capítulo 2: [Interface do Utilizador](Interfacedo Utilizador.md)
+* Capítulo 2: [Interface do Utilizador](doc/Interface_do_Utilizador.md)
 ### Produto
-* Capítulo 3: [Product](Produto.md)
+* Capítulo 3: [Produto](doc/Produto.md)
 ### Apresentação
-* Capítulo 4: [Presentation](Apresentação.md)
-[doc folder](doc/Apresentação.md)
+* Capítulo 4: [Apresentação](doc/Apresentação.md)
+
 ## Grupo
 * Catarina Pinto Moutinho [@A044887](https://github.com/A044887)
 * Francisca Sofia Abreu Da Silva [@A045955](https://github.com/A045955)
