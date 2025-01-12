@@ -8,9 +8,8 @@ O trabalho consiste na criação de um website de uma Agência de Viagens que ex
 
 ## Repository organization
 
-_Please help reader navigate around describing how the repository is organized by providing links_
-* **Source code** is in the [src folder](src/).
-* Report chapters are in [doc folder](doc/).
+* O **código** está em [Pasta src](src/).
+* Os capítulos do **relatório** estão em [Pasta doc](doc/).
 
 ## Gallery
 
@@ -32,7 +31,7 @@ _Please help reader navigate around describing how the repository is organized b
 ## Relatório
 
 ### Apresentação do Projeto
-* Capítulo 1: [Apresentação do Projeto](doc/Apresentação_do_projeto.md)
+* Capítulo 1: [Apresentação do Projeto](doc/Apresentação_do_Projeto.md)
 ### User Interface 
 * Capítulo 2: [Interface do Utilizador](doc/Interface_do_Utilizador.md)
 ### Produto
