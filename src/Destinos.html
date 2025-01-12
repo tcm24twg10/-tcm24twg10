@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Destinos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Menu Website -->
+    <nav>
+      <ul>
+          <li><img src="fotos/Logos.png" alt="Logo" class="logo"></li>
+          <li><a href="Index.html">Home</a></li>
+          <li><a href="Destinos.html">Destinos</a></li>
+          <li><a href="Precario.html">Preçário</a></li>
+          <li><a href="Galeria.html">Galeria</a></li>
+          <li><a href="SobreNos.html">Sobre Nós</a></li>
+          <li><a href="Contacto.html">Contactos</a></li>
+      </ul>
+    </nav>
+    <!-- Título e Descrição -->
+    <header class="page-header">
+    <h1>Descubre os 7 Pecados capitais em Viagens</h1>
+    <p>Transforma cada pecado capital numa experiência inesquecível. Explora destinos que combinam emoções, aventuras e prazeres únicos ao redor do mundo. <br> Pecar nunca foi tão satisfatório!</p>
+    </header>
+    <!-- PECADOS -->
+     <div class="gallery">
+        <div class="pecado-card" data-title="Gula">
+          <img src="fotos/gula.jpeg" alt="Imagem 1">
+          <div class="overlay">
+    <!-- GULA -->
+            <h2>Gula</h2>
+            <p>
+                Saboreie os prazeres irresistíveis <br> da gastronomia mundial!
+            </p>
+          </div>
+        </div>
+        <div class="pecado-card" data-title="Luxúria">
+          <img src="fotos/luxo.jpeg" alt="Imagem 2">
+          <div class="overlay">
+    <!-- LUXÚRIA -->   
+            <h2>Luxúria</h2>
+            <p>
+                Deixe-se seduzir pelas paisagens <br> mais deslumbrantes do planeta.
+            </p>
+          </div>
+        </div>
+        <div class="pecado-card" data-title="Avareza">
+          <img src="fotos/avareza.jpeg" alt="Imagem 3">
+          <div class="overlay">
+    <!-- AVAREZA -->
+            <h2>Avareza</h2>
+            <p>
+                Explore o luxo e a extravagância sem limites.
+            </p>
+          </div>
+        </div>
+        <div class="pecado-card" data-title="Ira">
+            <img src="fotos/ira.jpeg" alt="Imagem 6">
+            <div class="overlay">
+    <!-- IRA -->
+              <h2>Ira</h2>
+              <p>
+                Sinta a força bruta da natureza <br> na sua forma mais visceral.</p>
+            </div>
+          </div>
+        <div class="pecado-card" data-title="Inveja">
+          <img src="fotos/inveja.jpg" alt="Imagem 5">
+          <div class="overlay">
+    <!-- INVEJA -->
+            <h2>Inveja</h2>
+            <p>
+                Descubra destinos onde a sofisticação <br> é um verdadeiro estilo de vida.</p>
+          </div>
+        </div>
+        <div class="pecado-card" data-title="Preguiça">
+            <img src="fotos/perguica.jpeg" alt="Imagem 4">
+            <div class="overlay">
+    <!-- PERGUIÇA -->
+              <h2>Preguiça</h2>
+              <p>
+                Entregue-se ao relaxamento e <br> ao ritmo calmo da vida.</p>
+            </div>
+          </div>
+        <div class="pecado-card" data-title="Vaidade">
+          <img src="fotos/vaidade.jpg" alt="Imagem 7">
+          <div class="overlay">
+    <!-- VAIDADE -->
+            <h2>Vaidade</h2>
+            <p>
+                Maravilhe-se com destinos que exibem <br> a grandiosidade da humanidade.</p>
+          </div>
+        </div>
+      </div>
+    <!-- MODAL -->
+      <div id="modal" class="modal">
+        <div class="modal-content">
+          <span class="close">&times;</span>
+          <h2 id="modal-title">Título do Pecado</h2>
+          <p id="modal-description">Descrição detalhada sobre o pecado e os destinos associados.</p>
+          <ul id="modal-countries" class="country-list">
+          </ul>
+        </div>
+      </div>
+    <!-- COMBOS -->
+    <section id="combos" class="combos-section">
+        <h2>Combos Pecaminosos</h2>
+        <p>É melhor pecar a dobrar! <br> Escolhe um pacote único que combina os prazeres de dois pecados num só destino.</p>
+        <div id="combos-container" class="combos-container">
+            <!-- combos serão gerados pelo script.js -->
+        </div>
+    </section>
+    
+    <!-- Rodapé -->
+    <footer class="footer">
+      <div class="footer-left">
+          <h1>7 Pecados em Viagens</h1>
+          <p>
+              Este site é apenas informativo. As reservas devem ser realizadas presencialmente na nossa agência. <br> Pecar nunca foi tão satisfatório!
+          </p>
+      </div>
+      <div class="footer-center">
+          <h2>Contacta-nos</h2>
+          <ul>
+              <li><i class="fas fa-phone"></i> 22 345 6789</li>
+              <li><i class="fas fa-envelope"></i> pecados@viagensincriveis.pt</li>
+              <li><i class="fas fa-map-marker-alt"></i> Descobrimentos, Lisboa, Portugal</li>
+          </ul>
+      </div>
+      <div class="footer-right">
+          <h2>Subscreve a nossa newsletter!!</h2>
+          <form action="#">
+              <input type="email" placeholder="Enter Your Email" required>
+              <button type="submit">SUBSCREVER</button>
+          </form>
+      </div>
+      <div class="footer-bottom">
+          © 2025 Sete Pecados em Viagens. Todos os direitos reservados.
+          <a href="#">Política de Privacidade</a> |
+          <a href="#">Termos e Condições</a> |
+          <a href="#">FAQ</a>
+      </div>
+  </footer>
+      <!-- Scripts para JAVA-->
+      <script src="script.js"></script>
+      <!-- Scripts para Ionicons-->
+      <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+      <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+  </body>
+  </html>
+  

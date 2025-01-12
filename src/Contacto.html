@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <!-- MENU -->
+    <nav>
+        <ul>
+            <li><img src="fotos/Logos.png" alt="Logo" class="logo"></li>
+            <li><a href="Index.html">Home</a></li>
+            <li><a href="Destinos.html">Destinos</a></li>
+            <li><a href="Precario.html">Preçário</a></li>
+            <li><a href="Galeria.html">Galeria</a></li>
+            <li><a href="SobreNos.html">Sobre Nós</a></li>
+            <li><a href="Contacto.html">Contactos</a></li>
+        </ul>
+      </nav>
+  <!-- Título e Introdução -->
+  <header class="contact-header">
+    <h1>Confessa os teus Pecados!</h1>
+    <p>Queremos ouvir os teus desejos mais secretos. Envia-nos uma mensagem e planeia a tua próxima aventura indulgente.</p>
+</header>
+
+<!-- Formulário de Contacto -->
+<section class="contact-form-section">
+    <h2>Deixa a tua mensagem</h2>
+    <form action="submit_form.php" method="POST" class="contact-form">
+        <div class="form-group">
+            <label for="name">Nome</label>
+            <input type="text" id="name" name="name" placeholder="O teu nome..." required>
+        </div>
+        <div class="form-group">
+            <label for="email">E-mail</label>
+            <input type="email" id="email" name="email" placeholder="O teu e-mail..." required>
+        </div>
+        <div class="form-group">
+            <label for="message">Mensagem</label>
+            <textarea id="message" name="message" placeholder="A tua mensagem..." rows="5" required></textarea>
+        </div>
+        <button type="submit" class="btn">Confessar</button>
+    </form>
+</section>
+
+<!-- Informações de Contato Direto -->
+<section class="contact-info-section">
+    <h2>Ou fala diretamente connosco</h2>
+    <ul class="contact-info">
+        <li><strong>Telefone:</strong>  22 345 6789</li>
+        <li><strong>E-mail:</strong> pecados@viagensincriveis.pt</li>
+        <li><strong>Endereço:</strong> Rua dos Prazeres, 77, Lisboa</li>
+    </ul>
+    <div class="social-icons">
+        <a href="https://facebook.com" target="_blank" aria-label="Facebook">
+            <ion-icon name="logo-facebook"></ion-icon>
+        </a>
+        <a href="https://instagram.com" target="_blank" aria-label="Instagram">
+            <ion-icon name="logo-instagram"></ion-icon>
+        </a>
+        <a href="https://twitter.com" target="_blank" aria-label="Twitter">
+            <ion-icon name="logo-twitter"></ion-icon>
+        </a>
+        <a href="https://linkedin.com" target="_blank" aria-label="LinkedIn">
+            <ion-icon name="logo-linkedin"></ion-icon>
+        </a>
+    </div>
+</section>
+
+<!-- Seção do Mapa -->
+<div class="map-section">
+    <h2>Localização</h2>
+    <p>Para reservar as tuas férias pecaminosas, visita-nos pessoalmente na nossa agência.</p>
+    <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3110.5920327759343!2d-9.137422824!3d38.70842967659252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1934770f3b0be1%3A0x59358b507a9c4407!2sLisboa!5e0!3m2!1spt-PT!2sbr!4v1671702320000!5m2!1spt-PT!2sbr" 
+    width="800" 
+    height="400" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy">
+</iframe>
+</div>
+
+<!-- Rodapé -->
+<footer class="footer">
+    <div class="footer-left">
+        <h1>7 Pecados em Viagens</h1>
+        <p>
+            Este site é apenas informativo. As reservas devem ser realizadas presencialmente na nossa agência. <br> Pecar nunca foi tão satisfatório!
+        </p>
+    </div>
+    <div class="footer-center">
+        <h2>Contacta-nos</h2>
+        <ul>
+            <li><i class="fas fa-phone"></i> 22 345 6789</li>
+            <li><i class="fas fa-envelope"></i> pecados@viagensincriveis.pt</li>
+            <li><i class="fas fa-map-marker-alt"></i> Descobrimentos, Lisboa, Portugal</li>
+        </ul>
+    </div>
+    <div class="footer-right">
+        <h2>Subscreve a nossa newsletter!!</h2>
+        <form action="#">
+            <input type="email" placeholder="Enter Your Email" required>
+            <button type="submit">SUBSCREVER</button>
+        </form>
+    </div>
+    <div class="footer-bottom">
+        © 2025 Sete Pecados em Viagens. Todos os direitos reservados.
+        <a href="#">Política de Privacidade</a> |
+        <a href="#">Termos e Condições</a> |
+        <a href="#">FAQ</a>
+    </div>
+</footer>
+    <!-- Scripts para JAVA-->
+    <script src="script.js"></script>
+    <!-- Scripts para Ionicons-->
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
