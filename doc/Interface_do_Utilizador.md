@@ -7,10 +7,12 @@ No primeiro passo, fizemos um sketch desenhado no bloco de notas para possuir um
 | | |
 :---: | :---:
  | 
-![An alternative description](images/image02.png) | ![An alternative description](images/image06.png)
+![An alternative description](Imagens/imagem01.png) | ![An alternative description](Imagens/imagem02.png)
 Esta página inicial inclui um menu principal fixo na parte superior com as opções de navegação: Home, Combos, Destinos, Contacto e um botão adicional “Explora”. No centro da página, destaca-se a mensagem principal: “Explora os 7 Pecados!”, acompanhada de uma área dedicada para um vídeo ou elemento interativo, como um botão de ação. |  Menu superior atualizado, agora incluindo as secções “Preços”, “Fotos” e “Sobre”.
 A mensagem principal “Explora os Sete Pecados” aparece novamente com botões de interação  para facilitar a navegação.
 Adição de uma secção informativa ou de aviso na parte inferior.
+
+
 ### Wireframes
 ![An alternative description]
 
