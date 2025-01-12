@@ -6,7 +6,7 @@ No primeiro passo, fizemos um sketch desenhado no bloco de notas para possuir um
 ## Sketchs
 | | |
 :---: | :---:
-![An alternative description](Imagens/imagem01.png) | ![An alternative description]
+![An alternative description](Imagens/imagem01.png) | ![An alternative description](Imagens/imagem02.png)
 Sketch inicial com foco nos aspectos fundamentais do projeto. Elementos supérfluos ou pouco necessários para o desenvolvimento estão presentes nessa versão inicial, com muitos elementos que desviam a atenção do utilizador. Por estes motivos mudamos o sketch para outro. |  Um Sketch novo que captura a atenção do utilizador de forma clara, intuitiva e atrativa. O design desta vez é mais focado na usabilidade e funcionalidade com elementos que possam facilitar a navegação. 
 
 ### Wireframes
