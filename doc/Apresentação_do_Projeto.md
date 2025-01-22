@@ -1,7 +1,7 @@
-# Apresentação: Os 7 Pecados em Viagens 
+# Apresentação: Sins and Suitcases
 
 ## Descrição
-Este projeto foi desenvolvido como parte de uma atividade acadêmica proposta pelo docente, com o objetivo de criar um website sobre viagens. O tema escolhido, "Os 7 Pecados em Viagens", relaciona os sete pecados capitais a experiências turísticas únicas, promovendo uma abordagem criativa e interativa para explorar diferentes destinos globais.
+Este projeto foi desenvolvido como parte de uma atividade acadêmica proposta pelo docente, com o objetivo de criar um website sobre viagens. O tema escolhido, "Sins and Suitcases", relaciona três dos sete pecados capitais a experiências turísticas únicas, promovendo uma abordagem criativa e interativa para explorar diferentes destinos globais.
 
 
 ## Grupo 10
