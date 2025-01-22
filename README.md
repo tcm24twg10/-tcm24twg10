@@ -3,7 +3,7 @@
 Repositório para hospedar o projeto desenvolvido para Tecnologias Web, cadeira de segundo ano da Universidade da Maia. Desenvolvido por: [@A044887](https://github.com/A044887),[@A045955](https://github.com/A045955), [@a044499MarcelaAlmeida](https://github.com/a044499MarcelaAlmeida)
 
 ## Pequena Descrição
-O trabalho consiste na criação de um website para uma Agência de Viagens que explora os 7 Pecados Capitais como destinos turísticos onde as pessoas podem usufruir das disferentes ofertas. Funciona como um website meramente informativo pois todas as reservas seriam realizadas presencialmente na agência.
+O trabalho consiste na criação de um website para um Blog onde vão ser explorados 3 dos Pecados Capitais como destinos turísticos onde o público pode descobrir as diferentes ofertas de cada destino e, também, curiosidades.
 
 
 ## Organização do Repositório
