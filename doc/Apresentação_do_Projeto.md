@@ -1,7 +1,7 @@
 # Apresentação: Sins and Suitcases
 
 ## Descrição
-Este projeto foi desenvolvido como parte de uma atividade acadêmica proposta pelo docente, com o objetivo de criar um website sobre viagens. O tema escolhido, "Sins and Suitcases", relaciona três dos sete pecados capitais a experiências turísticas únicas, promovendo uma abordagem criativa e interativa para explorar diferentes destinos globais.
+Este projeto foi desenvolvido como parte de uma atividade acadêmica proposta pelo docente, com o objetivo de criar um website sobre viagens. O tema escolhido, "Sins and Suitcases", está relacionado aos Sete Pecados Capitais, onde neste trabalho decidimos fazer um blog turistico sobre três desses pecados, a Gula, a Preguiça e o Orgulho. A nossa intenção é promover uma abordagem criativa e interativa para que o público possa descobrir alguns destinos diferentes.
 
 
 ## Grupo 10
