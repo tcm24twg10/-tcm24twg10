@@ -1,5 +1,5 @@
 # Produto
-Netlify link - https://tcm24twg10.netlify.app/ 
+Netlify link - https://tcm24twg10.netlify.app/
 ## Descrição
   O produto é um site chamado "Os 7 Pecados Capitais", que explora os sete pecados capitais como tema central para a criação de itenerários de viagens personalizadas. Tem páginas de destinos, preços, galeria, a equipa e contactos. Temos presentes formulários, imagens, informações de contato e preços temáticos para a experiência unica do utilizador.
 
