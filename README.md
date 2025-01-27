@@ -13,9 +13,9 @@ O trabalho consiste na criação de um website para um Blog onde vão ser explor
 
 ## Galeria
 
-| Index Desktop | <img src="doc/Imagens/Imagens/2.png"/> |
+| Index Desktop | <img src="doc/Imagens/Imagens/2.png" width="450"/> |
 |-------|-------|
-| Index Mobile | <img src="doc/Imagens/Imagens/1.png"/> |
+| Index Mobile | <img src="doc/Imagens/Imagens/1.png" width="450" /> |
 ## Tecnologias Utilizadas 
 
 * XML
