@@ -8,7 +8,7 @@ O trabalho consiste na criação de um website para um Blog onde vão ser explor
 
 ## Organização do Repositório
 
-* O **código** está em [Pasta src](src/).
+* O **código** está em [Pasta code](code/).
 * Os capítulos do **relatório** estão em [Pasta doc](doc/).
 
 ## Galeria
@@ -16,6 +16,7 @@ O trabalho consiste na criação de um website para um Blog onde vão ser explor
 | Index Desktop | <img src="doc/Imagens/Imagens/2.png" width="450"/> |
 |-------|-------|
 | Index Mobile | <img src="doc/Imagens/Imagens/1.png" width="450" /> |
+
 ## Tecnologias Utilizadas 
 
 * XML
