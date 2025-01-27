@@ -21,6 +21,7 @@ Uma das principais limitações do website reside no facto de o formulário de c
 
 ## Ajuda à Navegação
 Com o principal objetivo de auxiliar a navegação do utilizador, o menu do site inclui links diretos para as páginas principais do projeto: Home, About Us, Sins, Contact.
+No cabeçalho, foi inserido um logotipo que, além de ser visualmente atrativo, direciona o usuário à página principal. Também foi implementado o atributo *target*, permitindo que, ao clicar em abas como a do Instagram, o usuário seja redirecionado diretamente para a aplicação de forma prática e intuitiva.
 
 ## Validação do formulário
 O formulário presente na página **Contacto** não realiza validação, uma vez que seria necessário configurar uma base de dados para armazenar e processar as informações submetidas pelos utilizadores. Contudo, o grupo não possui, atualmente, os conhecimentos técnicos necessários para implementar essa funcionalidade. 
