@@ -3,7 +3,7 @@
 O design inicial foi cuidadosamente planeado com base em sketches e wireframes que ajudaram a definir a estrutura de cada página e a hierarquia das informações. Os **sketches** foram os primeiros passos no processo criativo, permitindo uma visão geral das ideias e do posicionamento dos elementos no site. Posteriormente, os **wireframes** foram criados para detalhar e organizar melhor o layout, garantindo que a navegação e a experiência do utilizador fossem intuitivas e funcionais. 
 
 ## Interface e recursos comuns
-O design inicial do site foi cuidadosamente planeado através da criação de sketches e wireframes que definiram a estrutura de cada página e a hierarquia de informações. Como primeiro passo, realizámos um sketch desenhado manualmente num bloco de notas (digital), permitindo-nos visualizar as ideias iniciais e testar o melhor posicionamento dos elementos no site. Contudo, a primeira versão deste sketch foi descartada por não apresentar o apelo visual necessário para atrair clientes e por ser pouco funcional. Assim, criámos um novo sketch que refletisse uma abordagem mais funcional e visualmente apelativa.
+O design inicial do site foi cuidadosamente planeado através da criação de sketches e wireframes que definiram a estrutura de cada página e a hierarquia de informações. Como primeiro passo, realizámos um sketch desenhado manualmente num bloco de notas (digital), permitindo-nos visualizar as ideias iniciais e testar o melhor posicionamento dos elementos no site. Contudo, a primeira versão deste sketch foi descartada por não apresentar o apelo visual necessário para atrair o público e por ser pouco funcional. Assim, criámos um novo sketch que refletisse uma abordagem mais funcional e visualmente apelativa.
 
 ## Sketchs
 
