@@ -27,7 +27,7 @@ O trabalho consiste na criação de um website para um Blog onde vão ser explor
 ## Relatório
 
 ### Proposta
-* Capítulo 1: [Apresentação do Projeto](doc/Apresentação_do_Projeto.md)
+* Capítulo 1: [Apresentação do Projeto](doc/Proposta.md)
 ### Apresentação do Projeto
 * Capítulo 2: [Apresentação do Projeto](doc/Apresentação_do_Projeto.md)
 ### User Interface 
