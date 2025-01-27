@@ -26,14 +26,16 @@ O trabalho consiste na criação de um website para um Blog onde vão ser explor
 
 ## Relatório
 
-### Apresentação do Projeto
+### Proposta
 * Capítulo 1: [Apresentação do Projeto](doc/Apresentação_do_Projeto.md)
+### Apresentação do Projeto
+* Capítulo 2: [Apresentação do Projeto](doc/Apresentação_do_Projeto.md)
 ### User Interface 
-* Capítulo 2: [Interface do Utilizador](doc/Interface_do_Utilizador.md)
+* Capítulo 3: [Interface do Utilizador](doc/Interface_do_Utilizador.md)
 ### Produto
-* Capítulo 3: [Produto](doc/Produto.md)
+* Capítulo 4: [Produto](doc/Produto.md)
 ### Apresentação
-* Capítulo 4: [Apresentação](doc/Apresentação.md)
+* Capítulo 5: [Apresentação](doc/Apresentação.md)
 
 ## Grupo
 * Catarina Pinto Moutinho [@A044887](https://github.com/A044887)
