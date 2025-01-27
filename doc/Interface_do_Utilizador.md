@@ -7,9 +7,8 @@ O design inicial do site foi cuidadosamente planeado através da criação de sk
 
 ## Sketchs
 
-| | |
-(![image](https://github.com/user-attachments/assets/09911cb4-1d21-4cc1-8c88-9d854d2b221d)
-)
+[image](https://github.com/user-attachments/assets/09911cb4-1d21-4cc1-8c88-9d854d2b221d)
+
 Esta página inicial inclui um menu principal fixo na parte superior com as opções de navegação: Home, que seria ao clicar no logotipo, Sins, onde teriamos a página sobre a Gula, a Preguiça e o Orgulho, About Us e Contact. No centro da página, destaca-se a mensagem principal: “Explore the routes of the 7 deadly sins while traveling the world.”, acompanhada de uma área dedicada para um vídeo ou elemento interativo, como um botão de ação. 
 ### Sitemap
 
