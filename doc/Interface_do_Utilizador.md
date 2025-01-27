@@ -7,8 +7,6 @@ O design inicial do site foi cuidadosamente planeado através da criação de sk
 
 ## Sketchs
 
-![IMG-20250122-WA0001](https://github.com/user-attachments/assets/6ffa400c-6bc4-4eaf-ab1e-d5e4b5f24bb7) | ![IMG-20250122-WA0002](https://github.com/user-attachments/assets/d76fe057-6946-499e-bd9b-ba5c47f1fcef) | ![IMG-20250122-WA0003](https://github.com/user-attachments/assets/ecd6bd69-a58c-4920-bfd3-e02c93ccd5fd) | ![IMG-20250122-WA0004](https://github.com/user-attachments/assets/b251bbba-488d-4f9d-a1f3-b08c0663016a) | ![IMG-20250122-WA0005](https://github.com/user-attachments/assets/15797cd5-d1d3-4719-8268-c32d5472b6e0) | ![IMG-20250122-WA0006](https://github.com/user-attachments/assets/cda82bc1-a0af-4ff0-80d9-b463c3a57119) | ![IMG-20250122-WA0007](https://github.com/user-attachments/assets/bfa60466-0851-4e39-92b3-af4e1f781f00)
-
 |                                                Imagens                                                  |                                                    Imagens                                             |                                     
 |---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | ![IMG-20250122-WA0001](https://github.com/user-attachments/assets/6ffa400c-6bc4-4eaf-ab1e-d5e4b5f24bb7) | ![IMG-20250122-WA0002](https://github.com/user-attachments/assets/d76fe057-6946-499e-bd9b-ba5c47f1fcef)|
